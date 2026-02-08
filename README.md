@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Forex Strategy Studio — The way trading was meant to be" width="100%" />
+  <img src="assets/images/github_banner.png" alt="Forex Strategy Studio - The way trading was meant to be" width="100%" />
 </p>
 
 <h2 align="center">Forex Strategy Studio</h2>
