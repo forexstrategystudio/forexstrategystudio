@@ -38,7 +38,7 @@
 
 <h3>This is the public repository for Forex Strategy Studio, where we publish:</h3>
 
-- **Sample exported MQL5 strategies** (Expert Advisors) created in the app in the no-code builder
+- <a href="https://github.com/forexstrategystudio/mql5-expert-advisors" target="_blank">Sample exported MQL5 strategies</a> (Expert Advisors) created in the app in the no-code builder
 - **Forex AI agent** with REST API, plus MQL5 bridge utilities to call the agent from MetaTrader 5 EAs
 - **MetaTrader MCP/API server** (used by the Forex AI Agent)
 - **MQL5 utilities** (helpers, templates, HTTP/JSON glue)
